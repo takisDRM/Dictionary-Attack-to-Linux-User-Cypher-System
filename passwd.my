@@ -1,0 +1,3 @@
+ninja_5:x:1515:user:/data/network/online:/bin/bash
+robocop:x:1515:user:/data/network/online:/bin/bash
+ironman:x:1515:user:/data/network/online:/bin/bash
